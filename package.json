@@ -1,12 +1,12 @@
 {
-  "name": "chained.js",
+  "name": "chained",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chained is a (very small) javascript library that dynamically links \"chain variables\" together.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Boudial(mraynal2008@gmail.com)",
-  "license": "ISC"
+  "license": "MIT"
 }
