@@ -1,7 +1,7 @@
 # Chained
 Chained is a (very small) javascript library that dynamically links "chain variables" together.
 ### Usage
-To use chained into your html document: import chainde with 
+To use chained into your html document: import chained with 
 ```html
 <script src="index.js" defer></script>
 ```
